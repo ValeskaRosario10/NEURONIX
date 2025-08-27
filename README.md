@@ -1,4 +1,4 @@
-🧠 Neuronux: Brain Tumor Segmentation & 3D Visualization
+#Neuronux: Brain Tumor Segmentation & 3D Visualization
 Neuronux is a deep learning-based project for brain tumor segmentation and 3D visualization using MRI scans.
 
 2D U-Net is used for accurate tumor segmentation on MRI slices.
